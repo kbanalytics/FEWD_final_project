@@ -1,0 +1,91 @@
+.div1 {
+    color:blue;
+    border-style:solid;
+    text-transform:none;
+    font-size: 24px;
+    border-width:15px;
+    border-color:yellow;
+    width: 800px;
+    height: 290px;
+    padding: 25px;
+    padding: 25px;
+    text-decoration: overline;
+    letter-spacing: 3px;
+}
+
+.div2 {
+    color:blue;
+    border-style:solid;
+    text-transform:none;
+    font-size: 24px;
+    border-width:15px;
+    border-color:yellow;
+    width: 800px;
+    height: 440px;
+    padding: 25px;
+    padding: 25px;
+    text-decoration: overline;
+    letter-spacing: 3px;
+}
+
+
+.div3 {
+    color:blue;
+    border-style:solid;
+    text-transform:none;
+    font-size: 24px;
+    border-width:15px;
+    border-color:yellow;
+    width: 800px;
+    height: 100px;
+    padding: 25px;
+    padding: 25px;
+    text-decoration: overline;
+    letter-spacing: 3px;
+}
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  position: relative;
+  width: 960px;
+}
+
+.axis text {
+  font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.bar {
+  fill: steelblue;
+  fill-opacity: .9;
+}
+
+.bar:hover {
+  fill: orange;
+}
+
+label {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+table{
+    color:blue;
+    border-collapse:collapse;
+    border:2px solid yellow;
+    }
+    
+ table td{
+ border:2px solid yellow;
+}
+
+ol{
+    color:blue;
+    }
